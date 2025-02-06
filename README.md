@@ -54,7 +54,8 @@ Reglas de Transición:
 Evolución del tiempo:
 La simulación avanza por pasos discretos en el tiempo. Después de cada ciclo, las celdas son actualizadas simultáneamente. <br>
 ***El codigo en Python que se desarrollo para mostrar el comportamiento simulado se muestra a continuación:
-```import random
+```python
+import random
 import numpy as np
 
 # Parámetros del modelo
@@ -107,6 +108,7 @@ for ciclo in range(CICLOS):
 
 # Visualización de resultados
 print("Simulación finalizada.")
-print(rejilla) ```
+print(rejilla)
+```
 
 ### 3. Tome el plano de una ciudad pequeña y localice, por ejemplo, las droguerías, o colegios ¿es posible que falte alguno en la ciudad? Utilice diagramas de Voronoi.
