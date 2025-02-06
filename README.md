@@ -2,7 +2,7 @@
 Solución a la guía #2 de la materia de Inteligencia Artificial en la Universidad Nacional de Colombia, hecha por el estudiante: Juan David Barrera Salamanca
 ### 1. Observe sus comportamientos en la casa, en la universidad y en el medio de transporte que utiliza, encuentre, para cada uno de estos escenarios sus reglas básicas.
 1. En la Casa 🏠 <br>
-Vecindad: Familiares o compañeros de vivienda.
+Vecindad: Familiares o compañeros de vivienda. <br>
 Reglas básicas:
 
 - Respetar horarios y espacios compartidos.
@@ -12,8 +12,8 @@ Reglas básicas:
 - Ajustar comportamientos según la rutina de los convivientes.
 📌 Ejemplo de comportamiento emergente: Si todos siguen reglas básicas de convivencia, el ambiente en casa es armonioso, pero si uno rompe la norma (ej., hace ruido a altas horas), se genera una reacción en cadena que afecta a los demás.
 
-2. En la Universidad 🎓
-Vecindad: Compañeros de clase, profesores, personal administrativo.
+2. En la Universidad 🎓 <br>
+Vecindad: Compañeros de clase, profesores, personal administrativo.<br>
 Reglas básicas:
 
 - Llegar a tiempo a las clases y respetar la puntualidad.
@@ -22,8 +22,8 @@ Reglas básicas:
 - Organizar trabajos en equipo siguiendo acuerdos internos.
 📌 Ejemplo de comportamiento emergente: Si los estudiantes respetan las reglas de participación en clase, se genera un aprendizaje colaborativo. Si muchos comienzan a faltar o a no participar, la dinámica de enseñanza se ve afectada.
 
-3. En el Medio de Transporte 🚍🚆
-Vecindad: Pasajeros, conductor, personal de servicio.
+3. En el Medio de Transporte 🚍🚆 <br>
+Vecindad: Pasajeros, conductor, personal de servicio.<br>
 Reglas básicas:
 
 - Respetar el turno de ingreso y salida.
