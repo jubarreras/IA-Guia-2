@@ -53,7 +53,7 @@ Reglas de Transición:
 
 Evolución del tiempo:
 La simulación avanza por pasos discretos en el tiempo. Después de cada ciclo, las celdas son actualizadas simultáneamente. <br>
-***El codigo en Python que se desarrollo para mostrar el comportamiento simulado se muestra a continuación:
+**El codigo en Python que se desarrollo para mostrar el comportamiento simulado se muestra a continuación:**
 ```python
 import random
 import numpy as np
