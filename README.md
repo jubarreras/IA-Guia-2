@@ -32,5 +32,5 @@ Reglas básicas:
 - Pagar el pasaje y respetar normas del servicio público.
 - Mantener la higiene y orden dentro del transporte. <br>
 📌 Ejemplo de comportamiento emergente: Si los pasajeros siguen las normas de cortesía y orden, el transporte fluye sin problemas. Si varios intentan colarse o no respetan los turnos, se genera caos y retrasos.
-### 2. Suponga una enfermedad, o un incendio forestal, o una moda, desarrolle un modelo de difusión usando ACs probabilísticos. O simule un robot con dos ruedas que evite obstáculos.
+### 2. Suponga una enfermedad, o un incendio forestal, o una moda, desarrolle un modelo de difusión usando ACs probabilísticos.
 ### 3. Tome el plano de una ciudad pequeña y localice, por ejemplo, las droguerías, o colegios ¿es posible que falte alguno en la ciudad? Utilice diagramas de Voronoi.
