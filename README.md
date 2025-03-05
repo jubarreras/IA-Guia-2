@@ -1,5 +1,5 @@
 # IA-Guia-2
-Solución a la guía #2 de la materia de Inteligencia Artificial en la Universidad Nacional de Colombia, hecha por el estudiante: Juan David Barrera Salamanca
+Solución a la guía #2 de la materia de Inteligencia Artificial en la Universidad Nacional de Colombia, hecha por el estudiante: Juan David Barrera Salamanca, Yeray Dario Moreno Rangel y Juan Diego Lozano Colmenares.
 ### 1. Observe sus comportamientos en la casa, en la universidad y en el medio de transporte que utiliza, encuentre, para cada uno de estos escenarios sus reglas básicas.
 1. En la Casa 🏠 <br>
 Vecindad: Familiares o compañeros de vivienda. <br>
