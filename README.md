@@ -59,10 +59,10 @@ import random
 import numpy as np
 
 # Parámetros del modelo
-TAM_REJILLA = 50  # Tamaño de la rejilla
+TAM_REJILLA = 10  # Tamaño de la rejilla
 p_infeccion = 0.3  # Probabilidad de infección
 p_recuperacion = 0.1  # Probabilidad de recuperación
-CICLOS = 100  # Número de ciclos de la simulación
+CICLOS = 10  # Número de ciclos de la simulación
 
 # Estado de la celda: S=0, I=1, R=2, V=3
 rejilla = np.zeros((TAM_REJILLA, TAM_REJILLA))
