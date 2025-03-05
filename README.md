@@ -110,5 +110,18 @@ for ciclo in range(CICLOS):
 print("Simulación finalizada.")
 print(rejilla)
 ```
-
+Resultado del código:
+```python
+Simulación finalizada.
+[[1. 1. 1. 1. 2. 1. 2. 2. 2. 2.]
+ [1. 2. 2. 2. 2. 1. 2. 2. 1. 2.]
+ [1. 2. 1. 1. 2. 2. 2. 1. 2. 2.]
+ [2. 1. 2. 1. 2. 2. 1. 2. 2. 2.]
+ [2. 1. 2. 2. 1. 1. 1. 2. 1. 1.]
+ [0. 2. 1. 1. 1. 2. 1. 2. 2. 1.]
+ [2. 1. 1. 2. 1. 2. 2. 2. 1. 1.]
+ [1. 1. 2. 1. 1. 1. 1. 1. 2. 2.]
+ [1. 1. 2. 2. 2. 1. 1. 1. 1. 2.]
+ [1. 2. 1. 1. 2. 2. 1. 1. 1. 2.]]
+```
 ### 3. Tome el plano de una ciudad pequeña y localice, por ejemplo, las droguerías, o colegios ¿es posible que falte alguno en la ciudad? Utilice diagramas de Voronoi.
