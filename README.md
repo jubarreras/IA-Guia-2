@@ -128,4 +128,4 @@ Simulación finalizada.
 
 Los diagramas de Voronoi son una división geométrica de un espacio en regiones (células) basadas en la proximidad a un conjunto de puntos llamados semillas, donde cada región contiene todos los puntos más cercanos a una semilla que a cualquier otra. Estas células son polígonos convexos cuyos bordes equidistan de dos semillas adyacentes. Por ejemplo, en el barrio Galerías, utilicé Google Maps para analizar la distribución de las droguerías y aplicar un diagrama de Voronoi, identificando áreas con menor cobertura donde sería necesario abrir nuevas droguerías para optimizar el acceso. Este enfoque es útil en planificación urbana, geografía y otros campos para modelar áreas de influencia y distribución de recursos.
 
-![Imagen](Captura de pantalla 2025-03-05 121613.png)
+![Imagen](https://github.com/jubarreras/IA-Guia-2/blob/main/Captura%20de%20pantalla%202025-03-05%20121613.png)
